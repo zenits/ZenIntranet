@@ -1,0 +1,17 @@
+﻿#main {
+  border: 1px solid gray;
+}
+
+#main div {
+  margin-top: 10px;
+}
+
+#main div table {
+  border-collapse: collapse;
+}
+
+#main div table th {
+  background-color: lightskyblue;
+}
+
+/*# sourceMappingURL=main.css.map */
